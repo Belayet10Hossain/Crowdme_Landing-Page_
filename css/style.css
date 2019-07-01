@@ -1,0 +1,210 @@
+/*-- Header Section Start --*/
+.header-section{
+	padding: 20px;
+}
+.header-section .custom{
+	background: #fff!important;
+}
+.header-section .custom:hover{
+	color: #adadad;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #adadad;
+}
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color: #adadad;
+}
+
+/* Banner Section Start */
+.banner{
+	background: url(../img/back.png) no-repeat center;
+	background-size: cover;
+	padding-top: 170px;
+	height: 572px;
+}
+.banner h1{
+	text-align: center;
+	font-weight: 600;
+	font-size: 49.2px;
+	color: #ffffff;
+}
+.banner h3{
+	text-align: center;
+	padding-top: 26px;
+	font-weight: 400;
+	font-size: 35.2px;
+	color: #ffffff;
+
+}
+.btn-banner{
+	display: block;
+	margin: 60px auto;
+	background: #99c50a;
+	border: 1px solid #99c50a;
+	border-radius: 10px;
+	padding: 21px 37px;
+	color: #ffffff;
+	font-size: 19.2px;
+	transition: 0.4s ease-in-out;
+}
+.btn-banner:hover{
+	border: 1px solid #26a6d1;
+	background-color: #26a6d1;
+}
+
+
+/* About Section Start */
+.about-section{
+	padding: 95px 0px;
+}
+.col-md-12 img{
+	display: block;
+	margin: 0 auto;
+}
+.col-md-12 h2{
+	text-align: center;
+	color: #515151;
+	padding-bottom: 71px;
+}
+.col-md-12 p{
+	text-align: center;
+	color: #8c8c8c;
+}
+
+/* Project Section Start */
+.row .left img{
+	padding: 27px 0px 40px 141px;
+}
+.row .img-right{
+	    padding: 43px 0px 0px 157px
+}
+.row .left{
+	background: #e2f8ff;
+}
+.row .right{
+	background: #f5f9eb;
+}
+.row .fifty-one{
+	width: 50%;
+	float: left;
+	padding: 46px 0px;
+}
+.row .fifty-two{
+	width: 50%;
+	float: left;
+	padding: 46px 0px;
+}
+.row .fifty-two h2{
+	color: #515151;
+	font-size: 23.2px;
+	font-weight: 400;
+	padding-bottom: 38px;
+}
+.row .fifty-two p{
+	color: #515151;
+	padding-bottom: 12px;
+}
+.row .btn-primary{
+	background: #26a6d1;
+	color: #ffffff;
+	transition: 0.4s ease-in-out;
+}
+.row .btn-primary:hover{
+	background: #99c50a;
+}
+.row .btn-primary-one{
+	background: #99c50a;
+	color: #ffffff;
+	transition: 0.4s ease-in-out;
+}
+
+/* Features Section Start */
+
+.row .btn-primary-one:hover{
+	background: #26a6d1;
+}
+.features{
+	padding-top: 80px;
+}
+.row h2{
+	font-size: 29.2px;
+	color: #515151;
+	font-weight: 600;
+	padding: 0px 0px 33px 27px
+}
+.row p{
+	color: #515151;
+	font-size: 17.2px;
+	padding-left: 27px;
+}
+.row .btn-p{
+	background: transparent;
+	border: 1px solid #515151;
+	border-radius: 5px;
+	padding: 7px 15px;
+	text-align: center;
+	width: 182px;
+	    margin: 70px 0px 0px 45px;
+	transition: 0.4s ease-in-out;
+}
+.row .btn-p:hover{
+	background: #65cfd5;
+	border: 1px solid #65cfd5;
+}
+
+.row .box-1{
+	background: #eee;
+	width: 300px;
+	margin: 60px 0px 0px 26px;
+
+}
+.row .box-1 h2{
+	font-size: 17.2px;
+	font-weight: 700;
+	margin: 27px 0px -20px -25px;
+	text-align: center;
+}
+.row .box-1 p{
+	font-size: 13.2px;
+	text-align: center;
+	margin: 0px 0px 0px -25px;
+}
+.row .para{
+	padding-top: 53px;
+}
+.row .para p{
+	padding-left: 50px;
+}
+.row .para .last-p{
+	margin-left: 94px;
+}
+.row .box-1 .border{
+	width: 80%;
+    margin: 0 auto;
+}
+.row .box-1 .simble{
+    margin: 13px 0px 0px 132px
+}
+.row .box-1 .simble img{
+	height: 15px;
+    margin-top: 3px;
+}
+.row .box-1 .simble p{
+	font-weight: 500;
+}
+
+/* Contact Us Section Start */
+.contact-us-section img{
+	margin: 30px 14px;
+	display: inline;
+}
+
+.border-section{
+	border: 1px solid #e4e1e1;
+}
+
+/* Footer Section Start */
+.footer-section p{
+	text-align: center;
+	padding: 20px 0px;
+}
